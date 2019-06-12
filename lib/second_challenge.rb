@@ -13,7 +13,8 @@ def second_challenge
       :martriach => {},
       :hero => {},
       :hero_friends => []
-      }}
+      }
+  }
 
 
 end
